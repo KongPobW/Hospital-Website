@@ -228,24 +228,24 @@
 #ft-form .part-form > .two-cols > .two-cols:last-child {
 	margin-right: 0;
 }
-#ft-form .part-form .two-cols > .containner-input label, #ft-form .part-form .inline > .containner-input label {
+#ft-form .part-form .two-cols > .container-input label, #ft-form .part-form .inline > .container-input label {
 	display: inline-flex;
 	align-items: flex-start;
 	margin-top: .5rem;
 	width: 100%;
 }
-#ft-form .part-form .two-cols > .containner-input:last-child, #ft-form .part-form .inline > .containner-input:last-child {
+#ft-form .part-form .two-cols > .container-input:last-child, #ft-form .part-form .inline > .container-input:last-child {
 	margin: .5rem 0 0 0;
 }
 #ft-form .part-form div.inline {
 	padding: .55rem 0 0;
 	width: 100%;
 }
-#ft-form .part-form div.inline > .containner-input label {
+#ft-form .part-form div.inline > .container-input label {
 	width: auto;
 	margin-right: .5rem;
 }
-#ft-form .part-form div.inline > .containner-input label:last-child {
+#ft-form .part-form div.inline > .container-input label:last-child {
 	margin-right: 0;
 }
 #ft-form .part-form > .two-cols div.inline {

@@ -110,12 +110,12 @@ body {
     margin-left: auto;
     margin-right: auto; 
 }
-.containner-map {
+.container-map {
     margin-left: 85px;
     display: inline-block;
     width: 600px;
 }
-.containner {
+.container {
     margin-top: 20px;
     display: inline-flex;
 }

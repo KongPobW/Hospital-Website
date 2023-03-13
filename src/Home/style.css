@@ -101,7 +101,7 @@
 body {
     background-color: white;
 }
-.package-containner {
+.package-container {
     margin-top: 30px;
     margin-left: 20px;
     margin-right: 20px;
@@ -110,7 +110,7 @@ body {
     background-color: #F8F9F9;
     box-shadow: 0 50px 50px rgb(0 4 12 / 5%), 0 4px 15px rgb(0 0 0 / 5%), 0 0 5px rgb(0 4 12 / 5%);
 }
-.package-containner .pk {
+.package-container .pk {
     margin-top: 30px;
     flex-direction: column;
     display: inline-block;
@@ -119,27 +119,27 @@ body {
     padding-bottom: 20px;
     box-shadow: 0 50px 50px rgb(0 4 12 / 5%), 0 4px 15px rgb(0 0 0 / 5%), 0 0 5px rgb(0 4 12 / 5%);
 }
-.package-containner .pk h3 {
+.package-container .pk h3 {
     margin-top: 10px;
     margin-left: 10px;
 }
-.package-containner .pk p {
+.package-container .pk p {
     margin-left: 10px;
     margin-top: 5px;
     width: 275px;
     text-align: justify;
     line-height: 1.5;
 }
-.package-containner .pk img {
+.package-container .pk img {
     width: 295px;
     height: 195px;
 }
-.sub-package-containner h2 {
+.sub-package-container h2 {
     color: #002d73;
     display: inline;
     border-bottom: 5px solid #FCF3CF;
 }
-.sub-package-containner {
+.sub-package-container {
     padding-left: 50px;
     padding-right: 50px;
 }
